@@ -13,7 +13,6 @@ This project is a complete redesign of the original skip selection page, maintai
 ### Original vs. Redesign
 
 **Original Design:**
-- Dark theme with yellow skip containers
 - Grid layout with basic cards
 - Limited visual hierarchy
 - Basic responsive design

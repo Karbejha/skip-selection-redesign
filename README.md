@@ -149,6 +149,7 @@ For questions about this redesign, please contact:
 - **GitHub**: [@Karbejha](https://github.com/Karbejha)
 - **Portfolio**: [Portfolio](https://portfolio-mohamad-karbejhas-projects.vercel.app/)
 
+
 ---
 
 **Note**: This is a redesign exercise. The original We Want Waste branding and API are property of their respective owners.
